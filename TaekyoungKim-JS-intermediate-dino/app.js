@@ -155,7 +155,6 @@ let dinoArray = [];
 
 // get the Dinos info from dino.json file
 //https://stackoverflow.com/questions/65731429/fetch-api-cannot-load-url-scheme-must-be-http-or-https-for-cors-request
-//npx serve
 fetch("dino.json")
     .then(response => response.json())
     .then(data => dinoArray = createDinoArray(data.Dinos))

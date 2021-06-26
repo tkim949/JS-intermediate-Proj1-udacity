@@ -1,12 +1,5 @@
 # Object Oriented Javascript 
 
-### My Notes
-Use "npx serve" to run a local web server
-This is the first assignment of Udacity intermeidate JavaScript course.
-I did this with one-month free trial!
-The lecture and projects were all good.
-All other files were given, and I only worked on app.js
-
 ## Student Instructions
 
 ### Big Picture
